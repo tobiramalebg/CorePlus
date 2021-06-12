@@ -1,0 +1,5 @@
+### Test minecraft plugin with Kotlin by gonzyui
+
+
+join_msg: "&7[&a+&7] &e%player%"
+quit_msg: "&7[&c-&7] &e%player%"
